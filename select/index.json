@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "誘惑",
+  "base_artist": "GLAY",
+  "createdAt": "2026-02-26T15:39:14.197101Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "誘惑",
+      "artist": "Kotaro Oshio",
+      "has_synced": false,
+      "path": "select/01_誘惑_Kotaro_Oshio.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "誘惑",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/02_誘惑_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "誘惑",
+      "artist": "Fantôme Iris",
+      "has_synced": false,
+      "path": "select/03_誘惑_Fantôme_Iris.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Temptation（誘惑）",
+      "artist": "本田美奈子.",
+      "has_synced": false,
+      "path": "select/04_Temptation(誘惑)_本田美奈子..txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "誘惑",
+      "artist": "Yoko Hatanaka",
+      "has_synced": false,
+      "path": "select/05_誘惑_Yoko_Hatanaka.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "誘惑",
+      "artist": "畑中葉子",
+      "has_synced": false,
+      "path": "select/06_誘惑_畑中葉子.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "誘惑",
+      "artist": "Hitoshi Fujima",
+      "has_synced": false,
+      "path": "select/07_誘惑_Hitoshi_Fujima.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Temptation (誘惑)",
+      "artist": "Minako Honda",
+      "has_synced": true,
+      "path": "select/08_Temptation_(誘惑)_Minako_Honda.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "誘惑",
+      "artist": "BUCK-TICK",
+      "has_synced": false,
+      "path": "select/09_誘惑_BUCK-TICK.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "GLAY / 誘惑",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/10_GLAY___誘惑_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "誘惑",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/11_誘惑_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "誘惑 feat.SUGIZO (from LUNATIC FEST. 2018)",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/12_誘惑_feat.SUGIZO_(from_LUNATIC_FEST._2018)_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "誘惑(再録)",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/13_誘惑(再録)_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Temptation (誘惑)",
+      "artist": "Minako Honda",
+      "has_synced": true,
+      "path": "select/14_Temptation_(誘惑)_Minako_Honda.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "誘惑",
+      "artist": "Nakajima Miyuki",
+      "has_synced": true,
+      "path": "select/15_誘惑_Nakajima_Miyuki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "誘惑",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/pl_01_誘惑_GLAY.txt"
+    }
+  ]
+}
